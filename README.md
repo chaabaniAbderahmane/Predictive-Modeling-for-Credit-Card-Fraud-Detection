@@ -21,3 +21,9 @@ The trained model is then evaluated on both the training and testing sets using 
 
 The provided code demonstrates a complete pipeline for credit card fraud detection, from data exploration and preprocessing to model training, hyperparameter tuning, and evaluation. By addressing the class imbalance, performing feature engineering, and leveraging appropriate evaluation metrics, this approach aims to build a robust and reliable model for identifying fraudulent transactions.
 
+
+
+<div style="background-color: #f0f0f0; padding: 20px; border-radius: 5px; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); text-align: center; margin: auto;">
+  <h2 style="color: #333;">Thank you for visiting!</h2>
+  <p style="color: #666;">Your feedback and contributions are highly appreciated.</p>
+</div>
