@@ -1,33 +1,3 @@
-<!-- README.md -->
-<style>
-h1 {
-  color: #333;
-  font-family: Arial, sans-serif;
-  text-align: center;
-}
-
-h2 {
-  color: #666;
-  font-family: Arial, sans-serif;
-}
-
-code {
-  background-color: #f5f5f5;
-  padding: 2px 4px;
-  font-family: Consolas, monospace;
-  border-radius: 4px;
-}
-
-p {
-  font-family: Arial, sans-serif;
-  line-height: 1.5;
-}
-
-.highlighted {
-  color: #e83e8c;
-  font-weight: bold;
-}
-</style>
 
 # Predictive Modeling for Credit Card Fraud Detection
 
